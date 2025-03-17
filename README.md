@@ -1,6 +1,6 @@
 # Hotel Booking Cancellation Prediction using XGBoost
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on predicting hotel booking cancellations using **XGBoost**, a powerful ensemble learning algorithm. By analyzing historical booking data, we aim to develop a predictive model that helps hotels optimize their operations, manage overbooking, and improve revenue management.
 
 ## Dataset
@@ -24,7 +24,7 @@ If you’d like to contribute to this project, feel free to fork the repository 
 For any questions or collaboration inquiries, feel free to reach out!
 
 ---
-### 🔗 Useful Links
+### Useful Links
 - [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [Scikit-Learn Documentation](https://scikit-learn.org/)
